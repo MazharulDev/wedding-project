@@ -1,0 +1,38 @@
+
+/*=======================================
+ button color  
+ ========================================*/
+ .btn-bg{
+    
+    background-color: rgb(235, 231, 231);
+}
+/* ====================================
+package highlight section  
+=======================================*/
+.highlight{
+    background: #4e54c8;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #8f94fb, #4e54c8);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #8f94fb, #4e54c8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+    color: #fff;
+    border-radius: 30px;
+    margin-bottom: 5px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+    padding-bottom: 10px;
+
+}
+/* ===============================
+budge style add  
+===================================*/
+.budge-size{
+    left: 85%;
+}
+a{
+    text-decoration: none;
+}
+/* ===============================
+toast style 
+==================================*/
+.toast-style{
+    border-left: 6px solid blue;
+}
